@@ -1,5 +1,7 @@
 # Peek Pick Pic
 
+> Public experimental source: see [PUBLICATION.md](PUBLICATION.md) for actual checks, known defects, restored modules and operational limits. Earlier audit decisions are historical.
+
 ## Описание
 
 Desktop-утилита на `PyQt5` для закрепления и управления изображениями поверх экрана. Судя по коду, проект ориентирован на быстрый просмотр, позиционирование, профили настроек и работу с оверлейными окнами в Windows.
